@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - "\u5C0F\u7D05"
+  - Portal
+  - "\u87F2\u5B50"
+  - Laser
+  - Enemy
+  - "\u602A\u7269"
+  - "\u9B54\u738B"
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - "\u5E73\u53F0"
+  - "\u73A9\u5BB6"
+  - "\u6575\u4EBA"
+  - "\u5B50\u5F48"
+  - "\u602A\u7269\u5B50\u5F48"
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: "\u80CC\u666F"
+    uniqueID: 1352942537
+    locked: 0
+  - name: "\u80CC\u666F2"
+    uniqueID: 2666010929
+    locked: 0
+  - name: "\u4E2D\u666F"
+    uniqueID: 3177024789
+    locked: 0
+  - name: "\u74B0\u5883"
+    uniqueID: 1060919635
+    locked: 0
+  - name: "\u5E73\u53F0"
+    uniqueID: 313812423
+    locked: 0
+  - name: "\u73A9\u5BB6"
+    uniqueID: 2313252277
+    locked: 0
+  - name: "\u6575\u4EBA"
+    uniqueID: 1308233523
+    locked: 0
+  - name: "\u5C0D\u8A71"
+    uniqueID: 2338057549
+    locked: 0
+  - name: "\u50B3\u9001"
+    uniqueID: 2881096543
+    locked: 0
